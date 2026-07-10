@@ -25,4 +25,4 @@ Runner.instance_.gameOver = function () {
 
             // Reset the time clock.
             this.time = getTimeStamp();
-        };
+        },
